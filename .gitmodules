@@ -1,3 +1,6 @@
+[submodule "dependencies/amulet"]
+        path = dependencies/amulet
+        url = https://github.com/mattbierner/amulet.git
 [submodule "dependencies/ecma-ast"]
 	path = dependencies/ecma-ast
 	url = https://github.com/mattbierner/ecma-ast.git
